@@ -1,12 +1,13 @@
-# Hi there 👋, I'm Razaul Haq (razaulpathan)
+# Hi there, I'm Razaul Haq 👋
+
 ### 🚀 Full-Stack Mobile & Backend Developer | Flutter & PHP Specialist
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/razaul-haq-50785242a">
-    <img src="https://img.shields.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/razaul-haq-50785242a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/razaulpathan">
-    <img src="https://img.shields.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/razaulpathan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
@@ -14,63 +15,63 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **production-grade mobile & web applications**.
-- ⚡ Specialist in **Flutter (Android/iOS/Web)** and **PHP 8 REST APIs with MySQL**.
-- 🎯 Focused on clean architecture, scalable backends, real-time tracking, and interactive UI/UX.
-- 💬 Ask me about **Flutter State Management, REST API Security, Database Optimization, and Gig Economy Platforms**.
+- 🔭 Currently building **production-grade mobile & web applications**.
+- ⚡ Specialized in **Flutter (Android/iOS/Web)** and **Core PHP 8+ REST APIs with MySQL**.
+- 🎯 Focused on **Clean Architecture**, **State Management**, **Database Optimization**, and **Real-Time GPS Tracking**.
+- 💬 Ask me about: **Flutter, Dart, REST API Security, MySQL Architecture, and Gig Economy Apps**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Technologies
 
-#### **Mobile & Frontend**
-![Flutter](https://img.shields.com/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.com/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.com/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### **Backend & Databases**
-![PHP](https://img.shields.com/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.com/badge/REST_API-005596?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.com/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-#### **Tools & Environment**
-![Git](https://img.shields.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.com/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.com/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.com/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-|---|---|---|---|
-| 🛠️ **ServiceHub** | Full-stack Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | [razaulpathan/service-hub](https://github.com/razaulpathan/service-hub) |
+| Project | Description | Core Stack | Link |
+|:---|:---|:---|:---:|
+| 🛠️ **ServiceHub** | Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | [📁 View Code](https://github.com/razaulpathan/service-hub) |
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razaulpathan&show_icons=true&theme=tokyonight&count_private=true" alt="Razaul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulpathan&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaulpathan&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Connect With Me
+### 📬 Connect with Me
 
 - 💼 **LinkedIn**: [razaul-haq-50785242a](https://www.linkedin.com/in/razaul-haq-50785242a)
-- 🐙 **GitHub**: [@razaulpathan](https://github.com/razaulpathan)
+- 🐙 **GitHub Profile**: [@razaulpathan](https://github.com/razaulpathan)
 
 ---
 <p align="center">

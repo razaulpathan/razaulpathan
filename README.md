@@ -1,53 +1,58 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:18A957&height=220&section=header&text=Razaul%20Haq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Mobile%20%26%20Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
-
-<h3 align="center">🚀 Flutter & PHP Specialist | Building Real-Time, Scalable Products</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:18A957&height=260&section=header&text=Razaul%20Haq&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Mobile%20%26%20Backend%20Developer%20%E2%80%94%20Flutter%20%C3%97%20PHP&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+PHP+8%2B+%7C+MySQL;Building+Production-Grade+Mobile+Apps;Real-Time+GPS+Tracking+%26+Clean+Architecture;Gig+Economy+%26+Marketplace+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=750&lines=Flutter+%7C+Dart+%7C+PHP+8%2B+%7C+MySQL+%7C+Firebase;Building+Production-Grade+Mobile+Apps;Real-Time+GPS+Tracking+%26+Clean+Architecture;WebRTC+Realtime+Messaging+%26+Video+Calling;Gig+Economy+%26+Marketplace+Platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/razaul-haq-50785242a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/razaulpathan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=razaulpathan&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=razaulpathan&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/razaulpathan?label=Followers&style=flat&color=2E9EF7" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/razaulpathan?style=for-the-badge&color=18A957&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/razaulpathan?style=for-the-badge&color=18A957&label=Total%20Stars" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/razaulpathan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=18A957" alt="Public Repos"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building **production-grade mobile & web applications**
-- ⚡ Specialized in **Flutter (Android/iOS/Web)** and **Core PHP 8+ REST APIs with MySQL**
-- 🎯 Focused on **Clean Architecture**, **State Management**, **Database Optimization**, and **Real-Time GPS Tracking**
-- 🌱 Currently exploring **scalable microservices** and **advanced Flutter performance tuning**
-- 💬 Ask me about: **Flutter, Dart, REST API Security, MySQL Architecture, and Gig Economy Apps**
-- ⚙️ Fun fact: I enjoy turning messy business ideas into clean, scalable digital products
+```yaml
+name: Razaul Haq
+role: Full-Stack Mobile & Backend Developer
+focus: [Flutter, Dart, PHP 8+, MySQL, Firebase, WebRTC]
+currently_building: production-grade mobile & web applications
+currently_exploring: [scalable microservices, advanced Flutter performance tuning]
+philosophy: "Clean Architecture over quick hacks. Always."
+ask_me_about: [Flutter, Dart, REST API Security, MySQL Architecture, Gig Economy Apps]
+```
 
 ---
 
 ### 🛠️ Tech Stack & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,js,bootstrap,git,github,postman,vscode,figma,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,js,bootstrap,git,github,postman,vscode,figma,linux" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Dart','PHP%208%2B','MySQL','REST%20API%20Design','Firebase%2FWebRTC','Clean%20Architecture'],datasets:[{label:'Proficiency',data:[95,90,88,85,80,78,90],backgroundColor:'rgba(46,158,247,0.35)',borderColor:'rgb(46,158,247)',pointBackgroundColor:'rgb(24,169,87)'}]},options:{scale:{ticks:{display:false}},legend:{display:false},title:{display:true,text:'Skill%20Radar'}}}&backgroundColor=transparent&width=480&height=380" alt="Skill Radar Chart" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/razaulpathan?style=for-the-badge&color=2E9EF7&label=Total%20Stars" alt="Total Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/razaulpathan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2E9EF7" alt="Public Repos"/>
-  <img src="https://img.shields.io/github/followers/razaulpathan?style=for-the-badge&color=2E9EF7&label=Followers" alt="Followers"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/razaulpathan&label=Joined%20GitHub&query=$.created_at&style=for-the-badge&color=181717&logo=github" alt="Joined GitHub"/>
@@ -57,25 +62,12 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Core Stack | Link |
-|:---|:---|:---|:---:|
-| 💬 **Grevia** | Realtime Social Messaging App with WebRTC audio/video calling, Riverpod Clean Architecture & Firebase Cloud Services | `Flutter` `Riverpod` `Firebase` `WebRTC` | [📁 View Code](https://github.com/razaulpathan/grevia-) |
-| 🛠️ **ServiceHub** | Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | [📁 View Code](https://github.com/razaulpathan/service-hub) |
+| Project | Description | Core Stack | Repo Stats | Link |
+|:---|:---|:---|:---:|:---:|
+| 💬 **Grevia** | Realtime Social Messaging App with WebRTC audio/video calling, Riverpod Clean Architecture & Firebase Cloud Services | `Flutter` `Riverpod` `Firebase` `WebRTC` | ![Stars](https://img.shields.io/github/stars/razaulpathan/grevia-?style=flat&color=2E9EF7) ![Last Commit](https://img.shields.io/github/last-commit/razaulpathan/grevia-?style=flat&color=18A957) | [📁 View Code](https://github.com/razaulpathan/grevia-) |
+| 🛠️ **ServiceHub** | Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | ![Stars](https://img.shields.io/github/stars/razaulpathan/service-hub?style=flat&color=2E9EF7) ![Last Commit](https://img.shields.io/github/last-commit/razaulpathan/service-hub?style=flat&color=18A957) | [📁 View Code](https://github.com/razaulpathan/service-hub) |
 
 > 💡 More projects coming soon — stay tuned!
-
----
-
-### 🏆 Core Strengths
-
-<table>
-  <tr>
-    <td align="center" width="200">📱<br><b>Flutter Development</b><br>Android, iOS & Web from a single codebase</td>
-    <td align="center" width="200">🔐<br><b>Secure REST APIs</b><br>PHP 8+ with token-based auth</td>
-    <td align="center" width="200">🗄️<br><b>Database Design</b><br>Optimized MySQL schemas at scale</td>
-    <td align="center" width="200">📍<br><b>Real-Time Tracking</b><br>Live GPS & location-based systems</td>
-  </tr>
-</table>
 
 ---
 

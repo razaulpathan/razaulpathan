@@ -65,6 +65,7 @@
 
 | Project | Description | Core Stack | Link |
 |:---|:---|:---|:---:|
+| 💬 **Grevia** | Complete Realtime Social Messaging Application with WebRTC Calling, Riverpod Clean Architecture & Firebase Cloud Services | `Flutter` `Riverpod` `Firebase` `WebRTC` | [📁 View Code](https://github.com/razaulpathan/grevia-) |
 | 🛠️ **ServiceHub** | Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | [📁 View Code](https://github.com/razaulpathan/service-hub) |
 
 > 💡 More projects coming soon — stay tuned!

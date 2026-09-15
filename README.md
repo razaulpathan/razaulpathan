@@ -43,21 +43,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razaulpathan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Razaul's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaulpathan&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=razaulpathan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Razaul's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=razaulpathan&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulpathan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulpathan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=razaulpathan&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=razaulpathan&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=razaulpathan&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=razaulpathan&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
+
+> ⚠️ **Note:** Ye stats cards live API images hain — chat/preview windows mein load nahi hongi, sirf jab README asli **GitHub repo** (`razaulpathan/razaulpathan`) mein push hogi tab dikhengi. Agar GitHub par bhi na dikhein, thodi der baad refresh karo (free services kabhi rate-limit ho jaati hain).
 
 ---
 
@@ -65,7 +67,7 @@
 
 | Project | Description | Core Stack | Link |
 |:---|:---|:---|:---:|
-| 💬 **Grevia** | Complete Realtime Social Messaging Application with WebRTC Calling, Riverpod Clean Architecture & Firebase Cloud Services | `Flutter` `Riverpod` `Firebase` `WebRTC` | [📁 View Code](https://github.com/razaulpathan/grevia-) |
+| 💬 **Grevia** | Realtime Social Messaging App with WebRTC audio/video calling, Riverpod Clean Architecture & Firebase Cloud Services | `Flutter` `Riverpod` `Firebase` `WebRTC` | [📁 View Code](https://github.com/razaulpathan/grevia-) |
 | 🛠️ **ServiceHub** | Cooperative Gig Services Platform with Flutter Customer/Worker Apps, PHP REST API, & Web Admin Panel | `Flutter` `PHP 8` `MySQL` `REST API` | [📁 View Code](https://github.com/razaulpathan/service-hub) |
 
 > 💡 More projects coming soon — stay tuned!

@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Razaul Haq 👋</h1>
-<h3 align="center">🚀 Full-Stack Mobile & Backend Developer | Flutter & PHP Specialist</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:18A957&height=220&section=header&text=Razaul%20Haq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Mobile%20%26%20Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+<h3 align="center">🚀 Flutter & PHP Specialist | Building Real-Time, Scalable Products</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+PHP+8%2B+%7C+MySQL;Building+Production-Grade+Mobile+Apps;Real-Time+GPS+Tracking+%26+Clean+Architecture;Gig+Economy+%26+Marketplace+Platforms" alt="Typing SVG" />
@@ -43,23 +44,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razaulpathan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Razaul's GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=razaulpathan&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://img.shields.io/github/stars/razaulpathan?style=for-the-badge&color=2E9EF7&label=Total%20Stars" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/razaulpathan&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=2E9EF7" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/razaulpathan?style=for-the-badge&color=2E9EF7&label=Followers" alt="Followers"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razaulpathan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/razaulpathan&label=Joined%20GitHub&query=$.created_at&style=for-the-badge&color=181717&logo=github" alt="Joined GitHub"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=razaulpathan&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=razaulpathan&theme=radical&hide_border=true" alt="Contribution Graph" />
-</p>
-
-> ⚠️ **Note:** Ye stats cards live API images hain — chat/preview windows mein load nahi hongi, sirf jab README asli **GitHub repo** (`razaulpathan/razaulpathan`) mein push hogi tab dikhengi. Agar GitHub par bhi na dikhein, thodi der baad refresh karo (free services kabhi rate-limit ho jaati hain).
 
 ---
 
@@ -87,6 +79,18 @@
 
 ---
 
+### 💥 Why Work With Me
+
+<table>
+  <tr>
+    <td align="center" width="230">🏗️<br><b>End-to-End Ownership</b><br>From database schema to app store release</td>
+    <td align="center" width="230">⚙️<br><b>Production Mindset</b><br>Clean Architecture, not just working code</td>
+    <td align="center" width="230">🚀<br><b>Ship Fast, Ship Right</b><br>Realtime, scalable systems under real deadlines</td>
+  </tr>
+</table>
+
+---
+
 ### 📬 Connect with Me
 
 <p align="left">
@@ -104,6 +108,4 @@
   <i>"Building scalable digital solutions with clean code & modern design."</i>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18A957,100:2E9EF7&height=120&section=footer" width="100%"/>
